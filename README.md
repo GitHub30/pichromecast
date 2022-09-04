@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/pypi/pyversions/pichromecast.svg)](https://badge.fury.io/py/pichromecast)
+[![PyPI](https://badge.fury.io/py/pichromecast.svg)](https://badge.fury.io/py/pichromecast)
 # pichromecast
 Library for MicroPython to communicate with the Google Chromecast.
 
