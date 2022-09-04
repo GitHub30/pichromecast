@@ -46,4 +46,4 @@ or use [MicroPython MSDS](https://pypi.org/project/micropython-mdns/)
 
 ## Demo
 
-https://www.youtube.com/watch?v=bA8fouVAPho
+[![Watch the video](https://img.youtube.com/vi/bA8fouVAPho/maxresdefault.jpg)](https://youtu.be/bA8fouVAPho)
