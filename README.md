@@ -1,6 +1,15 @@
 # pichromecast
 Library for MicroPython to communicate with the Google Chromecast.
 
+## Install
+`Tools` > `Manage packages...`
+
+![Screenshot from 2022-09-04 12-42-58](https://user-images.githubusercontent.com/12811398/188297409-533b2016-d37e-4f8f-b44a-cab390adc953.png)
+
+or copy and paste code
+
+https://github.com/GitHub30/pichromecast/blob/main/pichromecast.py
+
 ## Usage
 
 ```python
