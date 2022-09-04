@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pichromecast',
-    version='0.5',
+    version='0.6',
     description='Library for MicroPython to communicate with the Google Chromecast.',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
