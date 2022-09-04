@@ -51,7 +51,7 @@ print(services)
 [CastInfo(services={ServiceInfo(type='mdns', data='Google-Home-Mini-3b0a32dc5803130351919f8a286e406f._googlecast._tcp.local.')}, uuid=UUID('3b0a32dc-5803-1303-5191-9f8a286e406f'), model_name='Google Home Mini', friendly_name='書斎', host='192.168.10.101', port=8009, cast_type='audio', manufacturer='Google Inc.')]
 ```
 
-or use [MicroPython MSDS](https://pypi.org/project/micropython-mdns/)
+or use [MicroPython MDNS](https://pypi.org/project/micropython-mdns/)
 
 ## Demo
 
