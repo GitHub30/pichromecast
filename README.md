@@ -43,3 +43,9 @@ print(services)
 ```
 
 or use [MicroPython MSDS](https://pypi.org/project/micropython-mdns/)
+
+## Demo
+
+https://user-images.githubusercontent.com/12811398/188297089-e4cb4a56-a9f2-47c6-9c32-ca41298520a9.mp4
+
+
