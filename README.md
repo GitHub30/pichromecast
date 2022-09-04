@@ -28,6 +28,15 @@ from pichromecast import play_url, create_url
 play_url(create_url('hello world', 'en'), '192.168.10.101')
 ```
 
+```python
+# https://gist.github.com/SpotlightKid/eca9b00239104e8c599b86635f62ab73#file-urlencode-py
+from urlencode import urlencode
+from pichromecast import play_url
+
+url = 'https://translate.google.com/translate_tts?client=tw-ob&' + urlencode({'q': 'Hello, 世界', 'tl': 'ja'})
+play_url(url, '192.168.10.101')
+```
+
 ### Connect wifi and play
 ```python
 import network
