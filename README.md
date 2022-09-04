@@ -20,6 +20,14 @@ from pichromecast import play_url
 play_url('https://nyanpass.com/nyanpass.mp3', '192.168.10.101')
 ```
 
+Text to Speech
+
+```python
+from pichromecast import play_url, create_url
+
+play_url(create_url('hello world', 'en'), '192.168.10.101')
+```
+
 ### Connect wifi and play
 ```python
 import network
