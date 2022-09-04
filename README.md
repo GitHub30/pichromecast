@@ -6,7 +6,7 @@ Library for MicroPython to communicate with the Google Chromecast.
 ## Install
 `Tools` > `Manage packages...`
 
-![Screenshot from 2022-09-04 12-42-58](https://user-images.githubusercontent.com/12811398/188297409-533b2016-d37e-4f8f-b44a-cab390adc953.png)
+![image](https://user-images.githubusercontent.com/12811398/188298181-916f6997-2c25-4d4e-8a7f-a9152ce1c1e9.png)
 
 or copy and paste code
 
