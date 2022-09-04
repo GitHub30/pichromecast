@@ -34,3 +34,6 @@ def play_url(url, host):
     sock.read(struct.unpack(">I", sock.read(4))[0])
     sock.read(struct.unpack(">I", sock.read(4))[0])
     sock.close()
+
+def create_url(q, tl='en'):
+    return f'https://translate.google.com/translate_tts?client=tw-ob&tl={tl}&q={q.replace(" ", "+")}'
